@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 # 👤 个人简介 {#about-me}  
-陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，入选山西大学“文瀛青年学者”人才支持计划；担任中国计算机学会智能机器人专委会委员、中国自动化学会模式识别与机器智能专委会委员、中国计算机学会YOCSEF太原AC委员，Robot Learning期刊青年编委。
-
-主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担1**重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
+陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，山西省科技创新领域青年拔尖人才，入选山西大学“文瀛青年学者”人才支持计划。主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担国家级重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
 
 # 🛠️ 科学研究 {#scientific-research} 
 主要研究方向：
@@ -29,14 +27,13 @@ redirect_from:
 
 # 📝 学术论文 {#publications}
 - L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 1–17.
-- L. Chen, Z. Li, J. Yang, Z. Lu, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2025.
-- J. Yang, J. Zhao, L. Chen, H. Geng and P. Zhang. Learning Nonconvex Tensor Representation With Generalized Reweighted Sparse Regularization for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 14718-14737.
-- J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. International Conference on Robotics and Automation (ICRA), 2025.
+- L. Chen, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2025.
+- J. Yang, J. Zhao, L. Chen*, H. Geng and P. Zhang. Learning Nonconvex Tensor Representation With Generalized Reweighted Sparse Regularization for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 14718-14737.
+- J. Liu, Z. Lu, L. Chen*, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. International Conference on Robotics and Automation (ICRA), 2025.
 - L. Chen, Z. Li, Z. Lu*, Y. Wang, H. Nie and C. Yang. Domain-Invariant Feature Learning via Margin and Structure Priors for Robotic Grasping. IEEE Robotics and Automation Letters, 2025, 10(2): 1313-1320.
-- L. Chen, Z. Li, Z. Zhao, Z. Lu*, H. Wang, C. Yang. Efficient Visual Manipulation Relationship Reasoning with Relationship Attention and Sparse Graph in Robotic Grasping. IEEE Transactions on Automation Science and Engineering, 2024.
 - Z. Zhao, D. Zheng, L. Chen*. Detecting Transitions from Stability to Instability in Robotic Grasping Based on Tactile Perception. Sensors, 2024, 24, 5080.
 - Y. Song, M. Zhang, J. Chang, L. Chen*. Multi-Scale Co-Attention Reinforced U-Net for Medical Image Segmentation. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024, pp. 2422-2429.
-- Y. Song, Y. Lu, L. Chen and Y. Luo. Hierarchical Multi-Scale Enhanced Transformer for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics, 2024.
+- Y. Song, Y. Lu, L. Chen and Y. Luo*. Hierarchical Multi-Scale Enhanced Transformer for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics, 2024.
 - L. Chen, M. Niu, J. Yang*, Y. Qian, Z. Li, K. Wang, T. Yan, P. Huang. Robotic Grasp Detection Using Structure Prior Attention and Multiscale Features. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(11): 7039-7053.
 - J. Yang, T. Chen, L. Chen and J. Zhao. Towards A Clustering Guided Rule Interpolation for ANFIS Construction. IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2024, pp. 1-6.
 - H. Nie, Z. Zhao, L. Chen, Z. Lu, Z. Li and J. Yang. Smaller and Faster Robotic Grasp Detection Model via Knowledge Distillation and Unequal Feature Encoding. IEEE Robotics and Automation Letters, 2024, 9(8): 7206-7213.
@@ -56,20 +53,20 @@ redirect_from:
 - L. Chen, P. Huang*, J. Cai, Z. Meng and Z. Liu. A Non-cooperative Target Grasping Position Prediction Model for Tethered Space Robot. Aerospace Science and Technology, 2016, 58: 571-581. 
 
 # 💡 授权专利 {#granted-patent} 
-- 陈路, 牛洺第, 钱宇华, 闫涛. 一种适用于恶劣环境的物体六维位姿估计方法和系统（ZL202210962731.9），授权日期：2025年06月27日.
-- 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
-- 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
-- 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
-- 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
+- 陈路, 牛洺第, 钱宇华, 闫涛. 一种适用于恶劣环境的物体六维位姿估计方法和系统（ZL202210962731.9），授权日期：2025年06月27日；
+- 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日；
+- 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日；
+- 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日；
+- 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日。
 
 # 🏛️ 社会兼职 {#part-time-social-positions}  
- 1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
- 2. 2024 International Conference on Industrial Technology, Track/Session Chair
- 3. 2021 International Conference on Brain Informatics, Workshop Chair
- 4. Frontiers in Artificial Intelligence, Special Issue Organizer
- 5. Frontiers in Robotics and AI, Special Issue Editor
+ 1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员，CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
+ 2. 2024 International Conference on Industrial Technology, Track/Session Chair；
+ 3. 2021 International Conference on Brain Informatics, Workshop Chair；
+ 4. Frontiers in Artificial Intelligence, Special Issue Organizer；
+ 5. Frontiers in Robotics and AI, Special Issue Editor。
 
 # 💬 招生信息 {#admission-information} 
 - 欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
 - 要求：学习态度端正，对机器人背景下的视觉、人工智能课题感兴趣，具备较强的代码能力。有意者请将个人简历及能够体现个人学术、能力水平的材料发送至邮箱。
-- 同时欢迎优秀本科生加入课题组开展基础科研工作。
+- 同时欢迎优秀本科生加入课题组开展基础科研、学科竞赛工作。
