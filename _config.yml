@@ -24,11 +24,11 @@ author:
   name             : "陈路"
   avatar           : "images/Picture.png"
   bio              : "山西大学"
-  location         : "山东聊城"
+  location         : "chenlu@sxu.edu.cn"
   employer         :
   pubmed           : 
   googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "chenlu@sxu.edu.cn"
+  email            :  #"chenlu@sxu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
