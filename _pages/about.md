@@ -34,7 +34,7 @@ redirect_from:
 - L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 1–17.
 - L. Chen, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2025.
 - J. Yang, J. Zhao, L. Chen*, H. Geng and P. Zhang. Learning Nonconvex Tensor Representation With Generalized Reweighted Sparse Regularization for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 14718-14737.
-- J. Liu, Z. Lu, L. Chen*, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. International Conference on Robotics and Automation (ICRA), 2025.
+- J. Liu, Z. Lu, L. Chen*, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA), 2025, pp. 5011-5017. (Best Paper Award Finalist)
 - L. Chen, Z. Li, Z. Lu*, Y. Wang, H. Nie and C. Yang. Domain-Invariant Feature Learning via Margin and Structure Priors for Robotic Grasping. IEEE Robotics and Automation Letters, 2025, 10(2): 1313-1320.
 - Z. Zhao, D. Zheng, L. Chen*. Detecting Transitions from Stability to Instability in Robotic Grasping Based on Tactile Perception. Sensors, 2024, 24, 5080.
 - Y. Song, M. Zhang, J. Chang, L. Chen*. Multi-Scale Co-Attention Reinforced U-Net for Medical Image Segmentation. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024, pp. 2422-2429.
@@ -43,7 +43,7 @@ redirect_from:
 - J. Yang, T. Chen, L. Chen and J. Zhao. Towards A Clustering Guided Rule Interpolation for ANFIS Construction. IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2024, pp. 1-6.
 - H. Nie, Z. Zhao, L. Chen, Z. Lu, Z. Li and J. Yang. Smaller and Faster Robotic Grasp Detection Model via Knowledge Distillation and Unequal Feature Encoding. IEEE Robotics and Automation Letters, 2024, 9(8): 7206-7213.
 - Y. Gao, L. Chen and J. Liu. VAEPose: 6D Pose Estimation with Visual Appearance Enhancement for Low-Light Conditions. IEEE International Conference on Industrial Technology (ICIT), 2024, pp. 1-7.
-- H. Wang, L. Chen*, Z. Guan. Dual-Branch Low-Light Image Enhancement via Spatial and Multi-Scale Frequency Domain Fusion. 2024 IEEE International Conference on Industrial Technology (ICIT), 2024, pp. 1-7.
+- H. Wang, L. Chen*, Z. Guan. Dual-Branch Low-Light Image Enhancement via Spatial and Multi-Scale Frequency Domain Fusion. 2024 IEEE International Conference on Industrial Technology (ICIT), 2024, pp. 1-7. (Best Paper Award Finalist)
 - P. Wu, C. Han, T. Yan, L. Chen, T. Guo and Z. Li. SSF-EDZL Scheduling Algorithm on Heterogeneous Multiprocessors. 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2023, pp. 2052-2057.
 - P. Wu, Z. Li, Z. Zhang, T. Yan and L. Chen. Three Preemption Approaches towards EDF Scheduling for Homogeneous Multiprocessors. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS),2023, pp. 186-193.
 - J. Yang, C. Shang, L. Chen, P. Su and Q. Shen. Sparse Training Data-Based Hyperspectral Image Super Resolution Via ANFIS Interpolation. 2023 IEEE International Conference on Fuzzy Systems (FUZZ), 2023, pp. 1-6.
