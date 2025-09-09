@@ -31,6 +31,7 @@ redirect_from:
   7. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
 # 📝 学术论文 {#publications}
+- J. Yang, J. Zhao, L. Chen*, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025. (Accepted)
 - L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 1–17, doi:10.1017/S0263574725102130.
 - L. Chen, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2025, doi: 10.1109/TCDS.2025.3596649.
 - J. Yang, J. Zhao, L. Chen*, H. Geng and P. Zhang. Learning Nonconvex Tensor Representation With Generalized Reweighted Sparse Regularization for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 14718-14737.
