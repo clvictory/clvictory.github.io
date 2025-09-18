@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 👤 个人简介 {#about-me}  
-陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，山西省科技创新领域青年拔尖人才，入选山西大学“文瀛青年学者”人才支持计划。主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担国家级重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
+陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，山西省科技创新领域青年拔尖人才，CCF高级会员，入选山西大学“文瀛青年学者”人才支持计划。主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担国家级重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TEMCH、TNNLS、TASE和ICRA、IROS、AAAI等期刊会议审稿人。
 
 # 💬 招生信息 {#admission-information} 
 - 欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1~2名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
@@ -66,8 +66,9 @@ redirect_from:
 - 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日。
 
 # 🏛️ 社会兼职 {#part-time-social-positions}  
- 1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员，CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
- 2. 2024 International Conference on Industrial Technology, Track/Session Chair；
- 3. 2021 International Conference on Brain Informatics, Workshop Chair；
- 4. Frontiers in Artificial Intelligence, Special Issue Organizer；
- 5. Frontiers in Robotics and AI, Special Issue Editor。
+ 1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员；
+ 2. CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
+ 3. 2024 International Conference on Industrial Technology, Track/Session Chair；
+ 4. 2021 International Conference on Brain Informatics, Workshop Chair；
+ 5. Frontiers in Artificial Intelligence, Special Issue Organizer；
+ 6. Frontiers in Robotics and AI, Special Issue Editor。
