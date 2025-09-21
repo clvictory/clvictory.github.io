@@ -68,7 +68,4 @@ redirect_from:
 # 🏛️ 社会兼职 {#part-time-social-positions}  
  1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员；
  2. CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
- 3. 2024 International Conference on Industrial Technology, Track/Session Chair；
- 4. 2021 International Conference on Brain Informatics, Workshop Chair；
- 5. Frontiers in Artificial Intelligence, Special Issue Organizer；
- 6. Frontiers in Robotics and AI, Special Issue Editor。
+ 3. 担任2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025第六届CCF中国智能机器人学术年会，2024 International Conference on Industrial Technology (ICIT)，2021 International Conference on Brain Informatics (BI)等会议分论坛主席。
