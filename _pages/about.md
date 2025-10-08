@@ -33,7 +33,7 @@ redirect_from:
 # 📝 学术论文 {#publications}
 - L. Chen, J. Wen, Y. Gao, J. Yang, C. Zhang, S. An* and P. Wu. Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping. Expert Systems With Applications, 2025, doi: https://doi.org/10.1016/j.eswa.2025.129880.
 - J. Yang, J. Zhao, L. Chen*, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025, 17(18), 3137.
-- L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 1–17, doi:10.1017/S0263574725102130.
+- L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 43(9), 3095–3111.
 - L. Chen, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2025, doi: 10.1109/TCDS.2025.3596649.
 - J. Yang, J. Zhao, L. Chen*, H. Geng and P. Zhang. Learning Nonconvex Tensor Representation With Generalized Reweighted Sparse Regularization for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 14718-14737.
 - J. Liu, Z. Lu, L. Chen*, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA), 2025, pp. 5011-5017. (_Best Paper Award Finalist_)
