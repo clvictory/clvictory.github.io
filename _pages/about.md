@@ -31,16 +31,16 @@ redirect_from:
   7. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
 # 📝 学术论文 {#publications}
-- L. Chen, J. Wen, Y. Gao, J. Yang, C. Zhang, S. An* and P. Wu. Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping. Expert Systems With Applications, 2025, doi: https://doi.org/10.1016/j.eswa.2025.129880.
-- J. Yang, J. Zhao, L. Chen*, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025, 17(18), 3137.
-- L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 43(9), 3095–3111.
+- L. Chen, J. Wen, Y. Gao, J. Yang, C. Zhang, S. An* and P. Wu. Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping. Expert Systems With Applications, 2026, 298: 129880.
+- J. Yang, J. Zhao, L. Chen*, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025, 17(18): 3137.
+- L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 43(9): 3095–3111.
 - L. Chen, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2025, doi: 10.1109/TCDS.2025.3596649.
 - J. Wen, D. Li, J. Yang, L. Chen*, Z. Zhao and J. Luo. L-GraK: Learning Long-term Grasping Knowledge with Feature Map Distillation in Robotic Grasping. IEEE International Conference on Advanced Robotics and Mechatronics (ARM), 2025. Accepted.
 - Y. He, J. Gao, M. Geng, D. Zheng, Z. Zhao*, J. Luo and L. Chen. CLIP-Grasp: Multi-Modal Object Grasping Based on Language and Vision Integration. IEEE International Conference on Advanced Robotics and Mechatronics (ARM), 2025. Accepted. (_Best Paper Award Finalist_)
 - J. Yang, J. Zhao, L. Chen*, H. Geng and P. Zhang. Learning Nonconvex Tensor Representation With Generalized Reweighted Sparse Regularization for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 14718-14737.
 - J. Liu, Z. Lu, L. Chen*, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. International Conference on Robotics and Automation (ICRA), 2025, pp. 5011-5017. (_Best Paper Award Finalist_)
 - L. Chen, Z. Li, Z. Lu*, Y. Wang, H. Nie and C. Yang. Domain-Invariant Feature Learning via Margin and Structure Priors for Robotic Grasping. IEEE Robotics and Automation Letters, 2025, 10(2): 1313-1320.
-- Z. Zhao, D. Zheng, L. Chen*. Detecting Transitions from Stability to Instability in Robotic Grasping Based on Tactile Perception. Sensors, 2024, 24, 5080.
+- Z. Zhao, D. Zheng, L. Chen*. Detecting Transitions from Stability to Instability in Robotic Grasping Based on Tactile Perception. Sensors, 2024, 24: 5080.
 - Y. Song, M. Zhang, J. Chang, L. Chen*. Multi-Scale Co-Attention Reinforced U-Net for Medical Image Segmentation. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024, pp. 2422-2429.
 - Y. Song, Y. Lu, L. Chen and Y. Luo*. Hierarchical Multi-Scale Enhanced Transformer for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics, 2024.
 - L. Chen, M. Niu, J. Yang*, Y. Qian, Z. Li, K. Wang, T. Yan, P. Huang. Robotic Grasp Detection Using Structure Prior Attention and Multiscale Features. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(11): 7039-7053.
