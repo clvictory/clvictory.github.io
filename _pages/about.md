@@ -31,6 +31,7 @@ redirect_from:
   7. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
 # 📝 学术论文 {#publications}
+- L. Chen, C. Yang, Z. Wang, Y. Wang, X. Liang* and Y. Qian. Learning Invariant Grasping Features via Scene Prototypes and Structure Priors in Robotic Manipulation. IEEE Transactions on Automation Science and Engineering, 2025. Accepted.
 - L. Chen, J. Wen, Y. Gao, J. Yang, C. Zhang, S. An* and P. Wu. Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping. Expert Systems With Applications, 2026, 298: 129880.
 - J. Yang, J. Zhao, L. Chen*, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025, 17(18): 3137.
 - L. Chen, Y. Zheng, P. Wu, J. Yang*, Y. Gao and J. Liu. NGANet: Neighborhood-aware Graph Aggregation Network for 6D Pose Estimation in Robotic Grasping. Robotica, 2025, 43(9): 3095–3111.
