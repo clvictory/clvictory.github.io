@@ -34,7 +34,9 @@ redirect_from:
   10. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
 # 📝 学术论文 {#publications}
-- L. Chen, C. Yang, Z. Wang, Y. Wang, X. Liang* and Y. Qian. Learning Invariant Grasping Features via Scene Prototypes and Structure Priors in Robotic Manipulation. IEEE Transactions on Automation Science and Engineering, 2025, doi: 10.1109/TASE.2025.3630002.
+- L. Chen, Z. Li, Z. Zhao, Z. Lu*, H. Wang and C. Yang. Efficient Visual Manipulation Relationship Reasoning with Relationship Attention and Sparse Graph in Robotic Grasping, IEEE Transactions on Automation Science and Engineering, 2026, doi: 10.1109/TASE.2026.3667740.
+- W. Xie, Z. Lu, J. Liu, J. Yang, L. Chen* and C. Yang. TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking. International Conference on Robotics and Automation (ICRA), 2026. (Accepted)
+- L. Chen, C. Yang, Z. Wang, Y. Wang, X. Liang* and Y. Qian. Learning Invariant Grasping Features via Scene Prototypes and Structure Priors in Robotic Manipulation. IEEE Transactions on Automation Science and Engineering, 2026, 23: 3877-3888.
 - L. Chen, L. Dong, J. Liu, J. Yang* and Z. Zhao. SCDA: A Semi-supervised Adaptation Framework with Multi-modal Normalization for Cross-domain Grasp Detection. International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT), 2025, Accepted. (_**Best Paper Award**_)
 - L. Chen, J. Wen, Y. Gao, J. Yang, C. Zhang, S. An* and P. Wu. Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping. Expert Systems With Applications, 2026, 298: 129880.
 - J. Yang, J. Zhao, L. Chen*, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025, 17(18): 3137.
