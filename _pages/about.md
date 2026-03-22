@@ -77,6 +77,6 @@ redirect_from:
 - 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日。
 
 # 🏛️ 社会兼职 {#part-time-social-positions}  
- 1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员；
- 2. CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
- 3. 担任2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025第六届CCF中国智能机器人学术年会，2024 International Conference on Industrial Technology (ICIT)，2021 International Conference on Brain Informatics (BI)等会议分论坛主席。
+- CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员；
+- CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
+- 担任2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025第六届CCF中国智能机器人学术年会，2024 International Conference on Industrial Technology (ICIT)，2021 International Conference on Brain Informatics (BI)等会议分论坛主席。
