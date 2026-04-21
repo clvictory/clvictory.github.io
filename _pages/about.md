@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 👤 个人简介 {#about-me}  
-陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，山西省科技创新领域青年拔尖人才，CCF高级会员，入选山西大学“文瀛青年学者”人才支持计划。主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担国家级重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目、山西省科技合作交流专项等省部级项目5项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TEMCH、TNNLS、TASE和ICRA、IROS、AAAI等期刊会议审稿人。
+陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，山西省科技创新领域青年拔尖人才，IEEE Senior Member，CCF高级会员，入选山西大学“文瀛青年学者”人才支持计划。主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担国家级重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目、山西省科技合作交流专项等省部级项目5项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Transactions on Automation Science and Engineering和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TEMCH、TNNLS、TASE和ICRA、IROS、AAAI等期刊会议审稿人。
 
 # 💬 招生信息 {#admission-information} 
 - 欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1~2名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
