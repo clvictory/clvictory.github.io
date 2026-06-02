@@ -34,7 +34,8 @@ redirect_from:
   10. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
 # 📝 学术论文 {#publications}
-- M. Cheng, X. Hu, J. Zhang, J. Yang, **L. Chen**, D. Zhai and Y. Xia. LLEGrasp: A Brain-Inspired Embodied Grasping Framework via LLM-Guided Frequency Disentanglement in Low-Light Scenes, Frontiers of Computer Science, 2026. Accepted.
+- M. Cheng, X. Hu, J. Zhang, J. Yang, **L. Chen***, D. Zhai and Y. Xia. LLEGrasp: A Brain-Inspired Embodied Grasping Framework via LLM-Guided Frequency Disentanglement in Low-Light Scenes, Frontiers of Computer Science, 2026. Accepted.
+- L. Lv, Q. Guo, L. Zhang, L. Du, B. Jiang, **L. Chen**, Xinyan Liang*, Uncertainty-Guided View-Strength-Aware Feature Utilization for Multi-View Classification, Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(29): 24198-24206.
 - **L. Chen**, Z. Li, Z. Zhao, Z. Lu*, H. Wang and C. Yang. Efficient Visual Manipulation Relationship Reasoning with Relationship Attention and Sparse Graph in Robotic Grasping, IEEE Transactions on Automation Science and Engineering, 2026, 23: 5714-5731.
 - W. Xie, Z. Lu, J. Liu, J. Yang, **L. Chen*** and C. Yang. TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking. International Conference on Robotics and Automation (ICRA), 2026. (Accepted)
 - **L. Chen**, C. Yang, Z. Wang, Y. Wang, X. Liang* and Y. Qian. Learning Invariant Grasping Features via Scene Prototypes and Structure Priors in Robotic Manipulation. IEEE Transactions on Automation Science and Engineering, 2026, 23: 3877-3888.
