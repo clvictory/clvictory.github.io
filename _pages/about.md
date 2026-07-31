@@ -35,7 +35,8 @@ redirect_from:
 
 # 📝 学术论文 {#publications}
 - D. Li, J. Yang, Z. Lu, **L. Chen***, D. Zhai and Y. Xia. Disentangling Noisy 6-DoF Grasps: A Synergistic Strategy of Manifold Rectification and Orientation Arbitration, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. Accepted.
-- M. Cheng, X. Hu, J. Zhang, J. Yang, **L. Chen***, D. Zhai and Y. Xia. LLEGrasp: A Brain-Inspired Embodied Grasping Framework via LLM-Guided Frequency Disentanglement in Low-Light Scenes, Frontiers of Computer Science, 2026, DOI:10.1007/s11704-026-60497-x.
+- J. Yang, H. Ning, C. Shang, X. Guo, H. Geng, **L. Chen*** and Q. Shen. DPNet: Dynamic Pyramid-aided Adaptive Feature Aggregation for Hyperspectral Image Classification under Adversarial Attacks, Knowledge-Based Systems, 2026, DOI: 10.1016/j.knosys.2026.116744.
+- M. Cheng, X. Hu, J. Zhang, J. Yang, **L. Chen***, D. Zhai and Y. Xia. LLEGrasp: A Brain-Inspired Embodied Grasping Framework via LLM-Guided Frequency Disentanglement in Low-Light Scenes, Frontiers of Computer Science, 2026, DOI: 10.1007/s11704-026-60497-x.
 - H. Nie, F. Cao, **L. Chen**, F. Chen, Y. Zou and J. Yu*. Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field, IEEE International Conference on Multimedia and Expo (ICME), 2026. Accepted.
 - L. Lv, Q. Guo, L. Zhang, L. Du, B. Jiang, **L. Chen**, Xinyan Liang*, Uncertainty-Guided View-Strength-Aware Feature Utilization for Multi-View Classification, Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(29): 24198-24206.
 - **L. Chen**, Z. Li, Z. Zhao, Z. Lu*, H. Wang and C. Yang. Efficient Visual Manipulation Relationship Reasoning with Relationship Attention and Sparse Graph in Robotic Grasping, IEEE Transactions on Automation Science and Engineering, 2026, 23: 5714-5731.
