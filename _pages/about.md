@@ -35,7 +35,7 @@ redirect_from:
 
 # 📝 学术论文 {#publications}
 - D. Li, J. Yang, Z. Lu, **L. Chen***, D. Zhai and Y. Xia. Disentangling Noisy 6-DoF Grasps: A Synergistic Strategy of Manifold Rectification and Orientation Arbitration, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. Accepted.
-- J. Yang, H. Ning, C. Shang, X. Guo, H. Geng, **L. Chen*** and Q. Shen. DPNet: Dynamic Pyramid-aided Adaptive Feature Aggregation for Hyperspectral Image Classification under Adversarial Attacks, Knowledge-Based Systems, 2026, DOI: 10.1016/j.knosys.2026.116744.
+- J. Yang, H. Ning, C. Shang, X. Guo, H. Geng, **L. Chen*** and Q. Shen. DPNet: Dynamic Pyramid-aided Adaptive Feature Aggregation for Hyperspectral Image Classification under Adversarial Attacks, Knowledge-Based Systems, 2026, 351: 116744.
 - M. Cheng, X. Hu, J. Zhang, J. Yang, **L. Chen***, D. Zhai and Y. Xia. LLEGrasp: A Brain-Inspired Embodied Grasping Framework via LLM-Guided Frequency Disentanglement in Low-Light Scenes, Frontiers of Computer Science, 2026, DOI: 10.1007/s11704-026-60497-x.
 - H. Nie, F. Cao, **L. Chen**, F. Chen, Y. Zou and J. Yu*. Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field, IEEE International Conference on Multimedia and Expo (ICME), 2026. Accepted.
 - L. Lv, Q. Guo, L. Zhang, L. Du, B. Jiang, **L. Chen**, Xinyan Liang*, Uncertainty-Guided View-Strength-Aware Feature Utilization for Multi-View Classification, Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(29): 24198-24206.
@@ -43,6 +43,7 @@ redirect_from:
 - W. Xie, Z. Lu, J. Liu, J. Yang, **L. Chen*** and C. Yang. TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking. International Conference on Robotics and Automation (ICRA), 2026. (Accepted)
 - **L. Chen**, C. Yang, Z. Wang, Y. Wang, X. Liang* and Y. Qian. Learning Invariant Grasping Features via Scene Prototypes and Structure Priors in Robotic Manipulation. IEEE Transactions on Automation Science and Engineering, 2026, 23: 3877-3888.
 - **L. Chen**, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2026, 18(2): 289-302.
+- Z. Wang, J. Yang and **L. Chen***. Lightweight Visual-Tactile Slip Detection with Low-Rank ResNet18 and Uncertainty-Aware Multimodal Fusion. 2026 International Conference on Robotics, Automation and Intelligent Transportation Systems (RAITS), 2026, pp. 1-5.
 - **L. Chen**, L. Dong, J. Liu, J. Yang* and Z. Zhao. SCDA: A Semi-supervised Adaptation Framework with Multi-modal Normalization for Cross-domain Grasp Detection. International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT), 2025, pp: 44-55. (_**Best Paper Award**_)
 - **L. Chen**, J. Wen, Y. Gao, J. Yang, C. Zhang, S. An* and P. Wu. Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping. Expert Systems With Applications, 2026, 298: 129880.
 - J. Yang, J. Zhao, **L. Chen***, H. Ning and Y. Li. SATRNet: Self-Attention-aided Deep Unfolding Tensor Representation Network for Robust Hyperspectral Anomaly Detection. Remote Sensing, 2025, 17(18): 3137.
