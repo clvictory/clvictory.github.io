@@ -86,7 +86,8 @@ redirect_from:
 - CCF智能机器人专委会委员，CAAI具身智能专委会委员，CAA模式识别与机器智能专委会委员；
 - CCF YOCSEF太原AC副主席，Robot Learning期刊青年编委；
 - 担任2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025第六届CCF中国智能机器人学术年会，2024 International Conference on Industrial Technology (ICIT)，2021 International Conference on Brain Informatics (BI)等会议分论坛主席。
-# 🏛️ 学生培养 {#student}  
+  
+# 💬 学生培养 {#student}  
 - 2020级：李昌诚（中国机器人及人工智能大赛国三，保研至：厦门大学）、李淦（计算机应用，保研至：西安电子科技大学）
 - 2021级：聂鸿（RA-L，保研至：中国科学技术大学）
 - 2022级：李东江（IROS，保研至：西北工业大学）
