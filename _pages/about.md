@@ -40,7 +40,7 @@ redirect_from:
 - H. Nie, F. Cao, **L. Chen**, F. Chen, Y. Zou and J. Yu*. Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field, IEEE International Conference on Multimedia and Expo (ICME), 2026. Accepted.
 - L. Lv, Q. Guo, L. Zhang, L. Du, B. Jiang, **L. Chen**, Xinyan Liang*, Uncertainty-Guided View-Strength-Aware Feature Utilization for Multi-View Classification, Proceedings of the AAAI Conference on Artificial Intelligence, 2026, 40(29): 24198-24206.
 - **L. Chen**, Z. Li, Z. Zhao, Z. Lu*, H. Wang and C. Yang. Efficient Visual Manipulation Relationship Reasoning with Relationship Attention and Sparse Graph in Robotic Grasping, IEEE Transactions on Automation Science and Engineering, 2026, 23: 5714-5731.
-- W. Xie, Z. Lu, J. Liu, J. Yang, **L. Chen*** and C. Yang. TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking. International Conference on Robotics and Automation (ICRA), 2026. (Accepted)
+- W. Xie, Z. Lu, J. Liu, J. Yang, **L. Chen*** and C. Yang. TacTip-based Dynamic Contact Force Estimation with Sequential Tactile Images and Its Applications to Robotic Force Tracking. International Conference on Robotics and Automation (ICRA), 2026, pp: 18132-18139.
 - **L. Chen**, C. Yang, Z. Wang, Y. Wang, X. Liang* and Y. Qian. Learning Invariant Grasping Features via Scene Prototypes and Structure Priors in Robotic Manipulation. IEEE Transactions on Automation Science and Engineering, 2026, 23: 3877-3888.
 - **L. Chen**, Z. Li, J. Yang, Z. Lu*, P. Wu and T. Chen. Grasp Representation and Detection with Consistent Path in Robotic Grasping. IEEE Transactions on Cognitive and Developmental Systems, 2026, 18(2): 289-302.
 - Z. Wang, J. Yang and **L. Chen***. Lightweight Visual-Tactile Slip Detection with Low-Rank ResNet18 and Uncertainty-Aware Multimodal Fusion. 2026 International Conference on Robotics, Automation and Intelligent Transportation Systems (RAITS), 2026, pp. 1-5.
@@ -83,6 +83,6 @@ redirect_from:
 - 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日。
 
 # 🏛️ 社会兼职 {#part-time-social-positions}  
-- CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员，CAAI具身智能专委会委员；
-- CCF YOCSEF太原学术秘书，Robot Learning期刊青年编委；
+- CCF智能机器人专委会委员，CAAI具身智能专委会委员，CAA模式识别与机器智能专委会委员；
+- CCF YOCSEF太原AC副主席，Robot Learning期刊青年编委；
 - 担任2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025第六届CCF中国智能机器人学术年会，2024 International Conference on Industrial Technology (ICIT)，2021 International Conference on Brain Informatics (BI)等会议分论坛主席。
